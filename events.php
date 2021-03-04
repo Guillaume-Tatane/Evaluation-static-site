@@ -53,7 +53,7 @@
         <!--------------Blockquote Header----------->
         <div class="container pb-1">
             <blockquote class="mx-md-3 mx-lg-5 blockquote text-center bgFooter">
-                <h1>Asso Sauvegarde Environment</h1>
+                <h1>Asso Sauvegarde Environnement</h1>
                 <footer class="blockquote-footer text-white-50 pt-1">
                     <cite title="Source Title ">Nous entreprenons des actions dans le but de péréniser la vie des éléphants du
                         delta de l'Okavango</cite>
