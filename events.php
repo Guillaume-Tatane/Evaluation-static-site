@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Association Sauvegarde Environment </title>
+    <title>Association Sauvegarde Environnement </title>
     <!-- Bootstrap CSS -->
     <link href="design/css/bootstrap.min.css" rel="stylesheet">
     <!-- Our CSS -->
