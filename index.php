@@ -104,7 +104,7 @@
                             </h4>
                         </div>
                         <div class="card-footer text-center p-4">
-                            <a href="events.html" class="btn btn-outline-success">Voir nos <span class="text-capitalize ">évenements</span></a>
+                            <a href="events.php" class="btn btn-outline-success">Voir nos <span class="text-capitalize ">évenements</span></a>
                         </div>
                     </div>
                 </div>
