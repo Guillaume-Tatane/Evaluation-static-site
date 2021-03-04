@@ -1,0 +1,43 @@
+body,html {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 16 px;
+}
+
+section {
+    background-image: url("../Images/okavango_delta.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+blockquote>h1 {
+    font-size: 2rem;
+    color: #fff;
+}
+
+blockquote {
+    border-radius: 30px;
+}
+
+h4 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.3rem;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.bgMenu {
+    background-color: hsl(53, 46%, 62%);
+}
+
+.bgFooter {
+    background-color: hsl(91, 49%, 28%);
+}
+
+@media screen and (min-width: 991px) {
+    .card1 {
+        height: 950px;
+    }
+}
